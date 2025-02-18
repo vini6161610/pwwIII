@@ -33,9 +33,9 @@
                   <a class="dropdown-item" href="#">
                       <img src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pikachu-512.png" width="25px">Pikachu
                   </a></li>
-                <li><a class="dropdown-item" href="#">
+                <li><a class="dropdown-item" href="pikachu.php">
                   <img src="https://cdn1.iconfinder.com/data/icons/pokemon-set/24/Charizard-512.png" width="25px">Charizard</a></li>
-                <li><a class="dropdown-item" href="#">
+                <li><a class="dropdown-item" href="">
                   <img src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-1/135/_bulbasaur-512.png" width="25px">Bulbasaur</a></li>
                 <li><a class="dropdown-item" href="#">
                   <img src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-1/135/_charmander-512.png" width="25px">Charmander</a></li>
